@@ -1,5 +1,5 @@
 .baseTextBox{
-	background-color: rgb(226,230,232);
+	background-color: rgb(255,255,255);
 	padding: 24px;
 	margin-left: 15px;
 	margin-right: 300px;
@@ -13,7 +13,7 @@ h2{
 	text-align: center;
 }
 .sidetextBox{
-	background-color: rgb(226,230,232);
+	background-color: rgb(255,255,255);
 	margin-left: auto;
 	margin-top: -1600px;
 	margin-right: 2%;

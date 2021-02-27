@@ -15,15 +15,28 @@ h2{
 .sidetextBox{
 	background-color: rgb(226,230,232);
 	margin-left: auto;
-	margin-top: -450px;
+	margin-top: -1600px;
 	margin-right: 2%;
 	padding: 20px;
 	border:1px solid black;
 	width: 225px;
-	height: 400px;
+	height: 650px;
 
 }
 .sideTextBoxProp{
 	list-style-type:circle;
+}
+.jobtitle{
+	font-size: 20px;
+}
+.areaofjob{
+	display: inline-block;
+}
+p{
+	margin-top:2px;
+	margin-bottom: 2px
+}
+li{
+	padding:1px;
 }
 

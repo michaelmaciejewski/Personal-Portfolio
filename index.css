@@ -1,14 +1,16 @@
 .menuunorderedlist{
 
 	list-style-type: none;
-	padding: 10px;
-	margin: 10;
+	padding: 15px;
+	margin-left: 25px;
+	margin-right: 25px;
+
 	background-color: rgb(166, 209, 255);
 	text-align: center;
 	display: block;
 	font-size:14px ;
 	border:2px solid black;
-	border-radius: 40px 40px 40px 40px;
+	border-radius: 30px 30px 30px 30px;
 }
 .menulist{
 	display: inline;
@@ -27,11 +29,14 @@
 	text-align: center;
 	position: center;
 	font-size: 45px;
+
+	
 }
 .text{
 	color: rgb(166,209,255);
 	border: 1px solid black;
-	background-color: rgb(166, 209, 255);
+	background-color: rgb(35, 79, 214 );
+	
 
 }
 .box{
@@ -56,6 +61,10 @@ img{
 	margin-left:350px;
 
 }
+body{
+	background-color: rgb(212, 221, 251 );
+}
+
 
 /*p{
 	display: inline-block;
